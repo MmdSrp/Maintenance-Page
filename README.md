@@ -1,4 +1,4 @@
-# Website in Maintenance 🏗️
+# Maintenance Website 🏗️
 
 This repository contains a beautiful "Maintenance" website built with HTML, TailwindCSS, and JavaScript. It features a countdown timer, a newsletter subscription form, social media links, and a modern gradient design. The project includes two versions: one in Persian (Farsi) and one in English.
 
