@@ -75,7 +75,7 @@ This repository contains a beautiful "Maintenance" website built with HTML, Tail
 
 اینجا یه اسکرین‌شات از صفحه وب‌سایت گذاشتم که بتونی ببینی چطور به نظر می‌رسه:
 
-*توجه*: تصویر بالا یه placeholderه. می‌تونی یه اسکرین‌شات از `index-fa.html` یا `index-en.html` بگیری و به اسم `screenshot.png` تو ریپازیتوری آپلود کنی.
+[تصویری از سایت](https://s6.uupload.ir/files/screenshot-fa_3nlw.png)
 
 ---
 
@@ -153,7 +153,7 @@ The countdown timer is based on a target date (launchDate) stored in the browser
 Here's a screenshot of what the website looks like:
 
 *Note*: The image above is a placeholder. You can take a screenshot of `index-fa.html` or `index-en.html` and upload it as `screenshot.png` in the repository.
-[Sample Screenshot](https://media.discordapp.net/attachments/1285520019752751108/1366437178300960909/PGTracker.png?ex=68119a0a&is=6810488a&hm=e46257c7e15640d808894ab34e896a14c0b872b5cd0d41bf6bfdd5d5dc2fb334&=&format=webp&quality=lossless&width=538&height=538)
+[Image of the site](https://s6.uupload.ir/files/screenshot-en_n6bj.png)
 
 ---
 
