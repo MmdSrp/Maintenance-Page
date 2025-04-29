@@ -152,7 +152,6 @@ The countdown timer is based on a target date (launchDate) stored in the browser
 
 Here's a screenshot of what the website looks like:
 
-*Note*: The image above is a placeholder. You can take a screenshot of `index-fa.html` or `index-en.html` and upload it as `screenshot.png` in the repository.
 [Image of the site](https://s6.uupload.ir/files/screenshot-en_n6bj.png)
 
 ---
